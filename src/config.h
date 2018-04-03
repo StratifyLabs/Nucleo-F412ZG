@@ -29,7 +29,7 @@ limitations under the License.
 #define SOS_BOARD_SYSTEM_CLOCK 96000000
 #define SOS_BOARD_SYSTEM_MEMORY_SIZE (8192*3)
 #define SOS_BOARD_ID "-L6YKS62TwNuLaRizpA1"
-#define SOS_BOARD_VERSION "0.1"
+#define SOS_BOARD_VERSION "0.4"
 #define SOS_BOARD_NAME "Nucleo-F412ZG"
 
 #define SOS_BOARD_USB_RX_BUFFER_SIZE 512
@@ -50,9 +50,8 @@ limitations under the License.
 #define STM32_ARCH_CLOCK_AHB_CLOCK_DIVIDER 1
 #define STM32_ARCH_CLOCK_APB1_CLOCK_DIVIDER 2
 #define STM32_ARCH_CLOCK_APB2_CLOCK_DIVIDER 1
-#define STM32_ARCH_CLOCK_48_CLOCK_SELECTION 0
-#define STM32_ARCH_CLOCK_VOLTAGE_SCALE 3
-#define STM32_ARCH_CLOCK_FLASH_LATENCY 5
+#define STM32_ARCH_CLOCK_VOLTAGE_SCALE 1
+#define STM32_ARCH_CLOCK_FLASH_LATENCY 3
 
 //--------------------------------------------Symbols-------------------------------------------------
 
