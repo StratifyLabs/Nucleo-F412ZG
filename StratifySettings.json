@@ -1,7 +1,7 @@
 {
     "bootsuffix": "_boot",
     "buildprefix": "build_",
-    "change": "Updated with GCC 6.3.1, fix name (was 429)",
+    "change": "Sync with Nucleo144 boards",
     "changes": {
         "-L6YKS46oZntaStaW7iC": {
             "description": "First commit",
@@ -14,6 +14,10 @@
         "-L7AZFkr8qLseLqPcP2h": {
             "description": "Updated with GCC 6.3.1, fix name (was 429)",
             "version": "0.3"
+        },
+        "-L9fPtdy0cwtjUxw3qmt": {
+            "description": "Sync with Nucleo144 boards",
+            "version": "0.9"
         }
     },
     "description": "This BSP can be used to run Stratify OS on the STM32F Nucleo-F412ZG board.",
@@ -25,5 +29,5 @@
     "tags": "stm32,arm,cortex-m4",
     "type": "StratifyKernel",
     "uid": "QSW7bQHeDqhJEcZ0mxQ5SmEYUSL2",
-    "version": "0.3"
+    "version": "0.9"
 }
