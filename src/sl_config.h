@@ -9,6 +9,7 @@
 #define SL_CONFIG_VERSION_STRING "0.11"
 #define SL_CONFIG_VERSION_BCD 0x0B
 #define SL_CONFIG_DOCUMENT_ID "Loy74Ukm6dVsLMqQ7T6g"
+#define SL_CONFIG_TEAM_ID ""
 #define SL_CONFIG_NAME "Nucleo-F412ZG"
 #define SL_CONFIG_TYPE "os"
 #define SL_CONFIG_PUBLISHER "Stratify Labs, Inc"
